@@ -1,0 +1,20 @@
+Use VeriTabanıİsmi
+
+Create Table Tabloİsmi(
+Sütun1 VeriTürü(Karakter Sayısı),
+Sütun2 VeriTürü(Karakter Sayısı),
+Sütun3 VeriTürü(Karakter Sayısı)
+)
+
+-----------------------------------------------
+
+Örnek Kullanım
+------------------
+
+Use Okul
+
+Create Table Bilgi(
+Ogrenciİsim Varchar(20),
+OgrenciSoyad Varchar(20),
+OgrenciNo Smallint
+)

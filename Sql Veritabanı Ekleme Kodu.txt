@@ -1,0 +1,7 @@
+Create Database DosyaAdı
+
+--------------------------------
+
+Örnek Kullanım
+
+Create Database Okul
